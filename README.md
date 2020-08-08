@@ -13,6 +13,8 @@
 ## Description
 
 Kubernetes : L'orchestrateur le plus populaire pour la gestion des conteneurs.
+Le conteneur n'a pas conscience de ce qui se passe en dehors de la machine hôte.
+Gérer les différents conteneurs sur ces différents hôtes linux qu'ils soient physiques ou virtuels.
 
 ## Principes
 

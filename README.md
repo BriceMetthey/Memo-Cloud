@@ -2,6 +2,8 @@
 
 ## Références documentaires
 
+[Outil de diagramme : draw.io](http://draw.io)
+
 [Documentation microk8s](https://microk8s.io/docs) 
 
 [Documentation dashboard microk8s](https://microk8s.io/docs/addon-dashboard)
@@ -14,7 +16,7 @@ Kubernetes : L'orchestrateur le plus populaire pour la gestion des conteneurs.
 
 ## Principes
 
-Kubernetes permet de : 
+### Kubernetes permet de : 
 
 * Créer des services applicatifs sur plusieurs conteneurs
 
@@ -23,6 +25,11 @@ Kubernetes permet de :
 * Garantir leur intégrité
 
 * Assurer le monitoring
+
+
+### Les composants majeurs de l'architecture de Kubernetes
+
+Il y a le **Kubernetes Master** qui est le serveur controlant les nodes
 
 ## Start / Stop cluster
 

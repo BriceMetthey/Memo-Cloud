@@ -35,7 +35,7 @@ Gérer les différents conteneurs sur ces différents hôtes linux qu'ils soient
 
 Il y a le **Kubernetes Master** qui est le serveur controlant les nodes
 
-![](Diagramme01.svg)
+![](Diagram01.svg)
 
 ## Start / Stop cluster
 

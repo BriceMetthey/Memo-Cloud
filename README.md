@@ -35,6 +35,8 @@ Gérer les différents conteneurs sur ces différents hôtes linux qu'ils soient
 
 Il y a le **Kubernetes Master** qui est le serveur controlant les nodes
 
+![Diagramme_01](Diagramme_01.svg)
+
 ## Start / Stop cluster
 
 `microk8s start`
